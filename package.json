@@ -1,0 +1,19 @@
+{
+  "name": "praticaapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defendii/PraticaAPI.git"
+  },
+  "author": "Ana Julia Defendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defendii/PraticaAPI/issues"
+  },
+  "homepage": "https://github.com/defendii/PraticaAPI#readme",
+  "description": ""
+}
