@@ -15,5 +15,8 @@
     "url": "https://github.com/defendii/PraticaAPI/issues"
   },
   "homepage": "https://github.com/defendii/PraticaAPI#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
